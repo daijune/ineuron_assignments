@@ -1,1 +1,1 @@
-#Assignment for iNeuron course
+# Assignments for iNeuron course
